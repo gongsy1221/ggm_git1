@@ -36,6 +36,6 @@ int main()
 * 춤잘추고 노래잘부릅니다. 랩도 잘합니다.
 * 목소리 좋습니다.
 * 내년 쯤 군대갈것 같아요.
-> 세븐틴 많은 관심 부탁드려요.
+> 세븐틴 많은 관심 부탁드려요!!
 
 ![Alt text](https://w.namu.la/s/af5f77318def29deac35ea32aaa7b33a0ccb0aaa3e9b4ef701a5779e5a2a779c9f79bba91807e97daa21d0d8a9c66d2864f33c8243e9f05d678c21552ed9832f0c403d702bdeb79603e8406e3bdfa18c3f201e4a5bb625675071a8983f675b89)
